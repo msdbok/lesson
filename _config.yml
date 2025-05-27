@@ -15,6 +15,7 @@ mermaid:
   src: 'https://unpkg.com/mermaid@11.4.1/dist/mermaid.min.js'
   # src_config: '/js/mermaid_config.js'
 
+repository: msdbok/lesson
 
 #######
 # SITE SETTINGS
