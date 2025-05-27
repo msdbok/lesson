@@ -1,9 +1,10 @@
 ---
-title: 1. Importance of Software Quality
-category: definition
-author: Andrey Sadovykh
-layout: page
+section: Define Quality
+nav_order: 1
+title: Importance
+topics: Quality; Importance
 ---
+
 
 # 🔍 Importance of Software Quality  
 
