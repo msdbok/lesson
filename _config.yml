@@ -28,9 +28,9 @@ title: Software Quality and Reliability Course Handbook (SQRBOK)
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: code-slash
 # description appears in sidebar footer
-description: "Software Quality and Reliability Course Handbook (SQRBOK) is a collection of resources for software quality and reliability practitioners, researchers, and educators. It provides a comprehensive overview of the field, including best practices, methodologies, and tools for ensuring software quality and reliability."
+description: "Collection of resources and handouts"
 # keywords for meta tags used by search engines
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "analysis, metrics, reliability, software quality, software reliability, software engineering, software quality assurance, software quality management, software quality metrics, software reliability metrics"
 # image for meta tags, will appear when sharing link on social media
 featured-image: "/images/uidaho-workshop.jpg"
 

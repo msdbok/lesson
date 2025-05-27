@@ -1,7 +1,7 @@
 ---
 section_id: Define Quality
 nav: Importance
-nav_order: 6
+nav_order: 1
 title: Software Quality Importance
 topics: Quality; Importance
 ---
