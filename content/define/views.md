@@ -1,6 +1,6 @@
 ---
 section: Define Quality
-nav: Quality Views
+nav: Views
 nav_order: 2
 title: Quality Views by David A. Garvin
 topics: Quality Views; Garvin

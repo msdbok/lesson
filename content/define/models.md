@@ -1,8 +1,8 @@
 ---
 section: Define Quality
-nav: Quality Models
-nav_order: 2
-title: Quality Views by David A. Garvin
+nav: Models
+nav_order: 3
+title: Quality Models
 topics: Quality Models; Garvin; McCall; ISO; Relational
 ---
 
