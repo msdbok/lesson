@@ -1,7 +1,7 @@
 ---
-section_id: Define Quality
-nav_order: 6
-title: Importance
+section: Define Quality
+nav_order: 2
+title: Soft Qua 2
 topics: Quality; Importance
 ---
 
