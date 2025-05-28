@@ -1,8 +1,8 @@
 ---
-title: Overview. 3. Testing
-category: verification
-author: Andrey Sadovykh
-layout: page
+section: Verification
+nav: Overview / Testing
+nav_order: 8
+title: Testing Methods Overview
 ---
 
 # 3. Testing
