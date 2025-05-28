@@ -1,0 +1,41 @@
+- title: "Intro"
+  url: /intro/
+
+- title: "Resources"
+  url: /resources/
+
+- title: "Define"
+  children:
+    - title: "Gurus"
+      url: /define/gurus/
+    - title: "Importance"
+      url: /define/importance/
+    - title: "Metrics"
+      url: /define/metrics/
+    - title: "Models"
+      url: /define/models/
+    - title: "More"
+      url: /define/more/
+    - title: "Views"
+      url: /define/views/
+
+- title: "Verification"
+  children:
+    - title: "Overview"
+      children:
+        - title: "Overview"
+          url: /verif/overview/overview/
+        - title: "Inspection"
+          url: /verif/overview/inspection/
+    - title: "Analysis"
+      children:
+        - title: "Definitions"
+          url: /verif/overview/analysis/definitions/
+        - title: "Analysis Properties"
+          url: /verif/overview/analysis/analysis_properties/
+        - title: "Checking Example"
+          url: /verif/overview/analysis/checking_example/
+        - title: "Tools"
+          url: /verif/overview/analysis/tools/
+    - title: "Testing"
+      url: /verif/overview/testing/testing/
