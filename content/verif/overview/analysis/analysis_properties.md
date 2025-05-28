@@ -1,7 +1,7 @@
 ---
-section: Analysis
-nav: Properties
-nav_order: 2
+section: Verification
+nav: Overview / Analysis / Properties
+nav_order: 4
 title: Software Properties Verified by Static Analysis
 ---
 

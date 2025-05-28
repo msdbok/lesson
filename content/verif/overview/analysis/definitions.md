@@ -1,6 +1,6 @@
 ---
-section_id: Analysis
-nav: Definitions
+section: Verification
+nav: Overview / Analysis / Definitions
 nav_order: 3
 title: What is (Static) Analysis?
 ---

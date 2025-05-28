@@ -1,7 +1,7 @@
 ---
-section: Analysis
-nav: Tools
-nav_order: 4
+section: Verification
+nav: Overview / Analysis / Tools
+nav_order: 6
 title: Static Analysis Tools
 ---
 

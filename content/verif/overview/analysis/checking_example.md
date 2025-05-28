@@ -1,7 +1,7 @@
 ---
-section: Analysis
-nav: Example
-nav_order: 3
+section: Verification
+nav: Overview / Analysis / Example
+nav_order: 5
 title: Model Checking Example: Locking Discipline
 ---
 
