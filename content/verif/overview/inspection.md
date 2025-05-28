@@ -1,6 +1,6 @@
 ---
 section: Verification
-nav: Inspection
+nav: Overview / Inspection
 nav_order: 2
 title: Inspection Methods
 ---
